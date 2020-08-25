@@ -1,3 +1,5 @@
+Spider and Stemmer scripts
+
 W celu prawidłowego działania wymagany jest Python w wersji powyżej 3.0 oraz biblioteka NLTK.
 
 Aby uruchomić spidera należy zmodyfikować kod w następujący sposób:
