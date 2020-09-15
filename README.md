@@ -12,3 +12,4 @@ Dodatkowo nim właśnie został pobrany opis produktów (po delikatnej modyfikac
 
 W kodzie stemmera natomiast znajduje się ścieżka do danych pozyskanych podczas działania spidera.
 Po uruchomieniu otrzymamy wynik w postaci danych, które zostały poddane stemmingowi. Oprócz tego otrzymamy wyniki takie jak czas działania algorytmu, średnia długość rdzenia itp.
+
