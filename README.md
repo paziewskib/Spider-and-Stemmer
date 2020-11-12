@@ -1,4 +1,4 @@
-<b><h1>Spider and Stemmer scripts</h1></b>
+<b>Spider and Stemmer scripts</b>
 
 W celu prawidłowego działania wymagany jest Python w wersji powyżej 3.4 oraz biblioteka NLTK.
 
