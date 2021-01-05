@@ -1,6 +1,6 @@
 <h1><b>Spider and Stemmer scripts</b></h1>
 
-W celu prawidłowego działania wymagany jest Python w wersji powyżej <b>3.4</b> oraz biblioteka NLTK.
+<h2>W celu prawidłowego działania wymagany jest Python w wersji powyżej <b>3.4</b> oraz biblioteka NLTK.</h2>
 
 Aby uruchomić spidera należy zmodyfikować kod w następujący sposób:
 - w pole 'url' wprowadzić link do sitemapy
