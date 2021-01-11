@@ -3,7 +3,7 @@
 <h2>W celu prawidłowego działania wymagany jest Python w wersji powyżej <b>3.4</b> oraz biblioteka NLTK.</h2>
 
 Aby uruchomić spidera należy zmodyfikować kod w następujący sposób:
-- w pole 'url' wprowadzić link do sitemapy
+- w pole <i>'url'</i> wprowadzić link do sitemapy
 - w metodzie get_single_item_data należy podać miejsce gdzie znajdują się interesujące nas dane
 - po przekonwertowaniu dane powinny zostać pobrane i zapisane w pliku tekstowym
 
